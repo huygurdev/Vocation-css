@@ -1,0 +1,38 @@
+h1 {
+  color: #125b50;
+}
+
+h2 {
+  color: #f8b400;
+}
+
+h3 {
+  color: #ff6363;
+}
+
+.main-frame {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+img {
+  height: 350px;
+}
+
+.img-txt {
+  display: inline;
+}
+
+table {
+  width: 50%;
+  margin: 0 auto;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  margin: 10px 0 5px 20px;
+  padding: 0;
+  vertical-align: top;
+}
